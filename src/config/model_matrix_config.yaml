@@ -1,0 +1,7 @@
+---
+# Pared down version for just hyperparam tuning
+# Outcome File
+outcome_encounter_id_column: "ICUSTAY_ID"
+outcome_columns:
+  - "24hour_mortality" 
+
